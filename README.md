@@ -41,11 +41,8 @@ Here’s a snapshot of the Power BI dashboard:
 ---
 
 
-📈 Insights from Dashboard
-Identifies top-performing products driving revenue.
-
-Tracks monthly sales growth and seasonality.
-
-Compares regional performance to find strong and weak markets.
-
-Analyzes customer buying trends for decision-making.
+## 📈 Insights from Dashboard
+- Identifies top-performing products driving revenue
+- Tracks monthly sales growth and seasonality
+- Compares regional performance to find strong and weak markets
+- Analyzes customer buying trends for decision-making
